@@ -692,6 +692,10 @@ template<typename Key, typename Value>
 bool BinarySearchTree<Key, Value>::isBalanced() const
 {
     // TODO  
+    return true;
+
+    
+
 }
 
 
